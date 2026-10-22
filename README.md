@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33788092/README.md)
-# epidemic-compression-distortion
+# spatial-epidemic-compression-distortion
 
 Code for **"Choosing the spatial scale of aggregation in epidemic models: compression versus distortion"**
 (Y. R. Bhora, H. K. Das, I. Z. Kiss, K. V. Parag, E. Moro, L. M. Stolerman, V. Colizza, N. Kutz, M. Santillana).
@@ -66,7 +65,25 @@ reusing the derived files.
 
 ## Citation
 
-If you use this code, please cite the paper (citation to be added upon publication).
+If you use this code, please cite the preprint:
+
+> Bhora, Y. R., Das, H. K., Kiss, I. Z., Parag, K. V., Moro, E., Stolerman, L. M., Colizza, V., Kutz, N.,
+> & Santillana, M. (2026). Choosing the spatial scale of aggregation in epidemic models: compression versus
+> distortion. *medRxiv*. https://doi.org/10.1101/XXXX.XX.XX.XXXXXXXX
+
+```bibtex
+@article{bhora2026compression,
+  title   = {Choosing the spatial scale of aggregation in epidemic models: compression versus distortion},
+  author  = {Bhora, Y. R. and Das, H. K. and Kiss, I. Z. and Parag, K. V. and Moro, E. and
+             Stolerman, L. M. and Colizza, V. and Kutz, N. and Santillana, M.},
+  journal = {medRxiv},
+  year    = {2026},
+  doi     = {10.1101/XXXX.XX.XX.XXXXXXXX},
+  note    = {Preprint}
+}
+```
+
+The citation will be updated when the paper is published.
 
 ## License
 
